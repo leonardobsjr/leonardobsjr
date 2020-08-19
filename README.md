@@ -6,7 +6,7 @@ My name is Leonardo and i'm mainly a back-end developer with a lot of interest i
 - Currenly working at [Universidade Federal de Sergipe](http://ufs.br) as a sofware architect
 - Known at work as a :coffee: nerd,  a cli-lover and a linux advocate
 - Looking to collaborate more in open-source projects!
-- For more details about experience and stuff, check my [cv](cv.pdf)
+- For more details about experience and stuff, check my [cv](https://github.com/leonardobsjr/leonardobsjr/blob/master/cv.pdf)
 
 ## Latest open-source contributions:
 
